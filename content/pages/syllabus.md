@@ -25,7 +25,7 @@ This class explores the history, and the mythology, of the famous Japanese warri
 
 ### Required Text
 
-Stanley, Amy. *Stranger in the Shogun’s City: A Japanese Woman and Her World.*  Scribner, 2021. ISBN: ‎9781501188534. \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
+Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
 
 All other required readings can be found in the {{% resource_link "7f543041-3658-4cb1-96fe-904d6956eb24" "Readings" %}} section.
 
@@ -37,9 +37,9 @@ ACTIVITIES
 PERCENTAGES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
-Class Attendance and Participation 
+Class Attendance and Participation
 
-*A typical meeting in this class will consist of short lectures and discussions of required readings.* 
+*A typical meeting in this class will consist of short lectures and discussions of required readings.*
 
 *Active and consistent class participation is central to the success of our work together and is expected of every student. Consequently, a significant portion of your grade depends on coming to class and making your voice heard. You are expected to contribute to class discussion thoughtfully and frequently, responding not only to my questions, but also to comments made by your classmates.*
 
