@@ -28,3 +28,51 @@ This class explores the history, and the mythology, of the famous Japanese warri
 Stanley, Amy. *Stranger in the Shogun’s City: A Japanese Woman and Her World.*  Scribner, 2021. ISBN: ‎9781501188534. \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
 
 All other required readings can be found in the {{% resource_link "7f543041-3658-4cb1-96fe-904d6956eb24" "Readings" %}} section.
+
+### Grading Policy
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+
+Class Attendance and Participation 
+
+*A typical meeting in this class will consist of short lectures and discussions of required readings.* 
+
+*Active and consistent class participation is central to the success of our work together and is expected of every student. Consequently, a significant portion of your grade depends on coming to class and making your voice heard. You are expected to contribute to class discussion thoughtfully and frequently, responding not only to my questions, but also to comments made by your classmates.*
+
+{{< tdclose >}}{{< tdopen >}}
+25%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
+Reading Response Posts and Annotations
+
+*During most weeks, students will be required to either post responses to the instructor’s discussion prompts on required readings or participate in small group exercises such as annotating historical sources. As with Participation, evaluation will be based on completion and quality.*
+
+{{< tdclose >}}{{< tdopen >}}
+10%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
+Three Essays
+
+*Essay 1 (15%)*
+
+*Essay 2 (20%)*
+
+*Final Essay (30%)*
+
+For detail on the essays, see the {{% resource_link "f8ba7b70-6ae4-446b-8fa7-e409020ad97c" "Assignments" %}} section.
+
+{{< tdclose >}}{{< tdopen >}}
+65%
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+### Note on Japanese Names and Pronunciation
+
+In Japanese, the surname precedes the given name. My name, for example, would be rendered as “Nagahara Hiromu.” Please note that many of the assigned readings follow this convention for Japanese names.
+
+Vowels in Japanese are pronounced approximately as in Italian (they are pure vowels). Hence: a as in father; i as in magazine; u as in flute; e as in et cetera;  o as in note.
+
+Vowels with macrons (ā, ī, ū, ē, ō) are held longer than those without, but their sound values remain unchanged. For example: kōshō means “negotiations,” while koshō means “pepper.”
