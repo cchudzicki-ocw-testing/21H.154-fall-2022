@@ -31,6 +31,8 @@ Session 6: The First Samurai Wars
 
 Session 7: The First Samurai Government
 
+*Assignment due: Essay 1* 
+
 ### Week 5: From the Second Shogunate to Warring States (1300–1500)
 
 Session 8: Ashikaga Shogunate and the Era of Rival Imperial Courts
@@ -54,6 +56,8 @@ Session 12: The Last (and Best?) Samurai Government
 Session 13: The “Forty-Seven Rōnin” Incident as History and Myth
 
 Session 14: Pictures and Stories of the Floating World
+
+*Assignment due: Essay 2*
 
 ### Week 9: Women in a Samurai World
 
@@ -81,7 +85,11 @@ Session 21: “Bushidō”
 
 Session 22: A Contemporary Samurai Film
 
+In-class viewing: [*The Hidden Blade*](https://www.imdb.com/title/tt0442286/?ref_=fn_al_tt_1) (2004, Yōji Yamada, dir.)
+
 Session 23: “Samurai” Today
+
+In-class viewing: [*The Hidden Blade*](https://www.imdb.com/title/tt0442286/?ref_=fn_al_tt_1) (2004, Yōji Yamada, dir.)
 
 ### Week 14: Final Essay Prep Week
 
@@ -92,3 +100,5 @@ Session 25: Final Essay Workshop II: Discussion of Historical Contexts
 ### Week 15: Presentation Week
 
 Session 26: Final Presentations
+
+*Assignment due: Final Essay*
