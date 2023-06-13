@@ -24,3 +24,71 @@ Session 4: Heian, the Era of “Peace and Tranquility”(?)
 Session 5: Court Culture and Spirituality 
 
 ## Part II: Historical Samurai in Three Eras (1185–1700)
+
+### Week 4: The Shogun’s Government in Kamakura (1185–1300CE)
+
+Session 6: The First Samurai Wars
+
+Session 7: The First Samurai Government
+
+### Week 5: From the Second Shogunate to Warring States (1300–1500) 
+
+Session 8: Ashikaga Shogunate and the Era of Rival Imperial Courts
+
+Session 9: From Fires in Kyoto to “Warring States”
+
+### Week 6: Reunification 
+
+Session 10: The Unifiers: Oda Nobunaga and Toyotomi Hideyoshi
+
+### Week 7: Global Samurai and Pax Tokugawa
+
+Session 11: An Elizabethan Account of  Hideyoshi’s Nephew
+
+Session 12: The Last (and Best?) Samurai Government
+
+## Part III: Alternative Visions of Samurai and their World (1700–Present)
+
+### Week 8: Heroes, Villains, and Consumers
+
+Session 13: The “Forty-Seven Rōnin” Incident as History and Myth
+
+Session 14: Pictures and Stories of the Floating World
+
+### Week 9: Women in a Samurai World
+
+Session 15: Tsuneno’s Journey
+
+Session 16: Tsuneno’s Edo
+
+### Week 10: Bureaucrats and Ne’er-do-wells
+
+Session 17: Samurai Corruption
+
+Session 18: “Dream-besotted” Musui
+
+### Week 11: The End of Samurai
+
+Session 19: The Fall of Tokugawa and Aizu
+
+Session 20: A Samurai Prince in 19th-Century Massachusetts 
+
+### Week 12: Modern Samurai
+
+Session 21: “Bushidō” 
+
+### Week 13: Are We All Samurai Now? 
+
+Session 22: A Contemporary Samurai Film
+
+Session 23: “Samurai” Today
+
+### Week 14: Final Essay Prep Week
+
+Session 24: Final Essay Workshop I: Discussion of Individual Sources
+
+Session 25: Final Essay Workshop II: Discussion of Historical Contexts
+
+### Week 15: Presentation Week
+
+Session 26: Final Presentations
