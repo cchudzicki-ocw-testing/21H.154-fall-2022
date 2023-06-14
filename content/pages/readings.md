@@ -35,7 +35,7 @@ No readings assigned.
 
 \[JE\] Ch. 8, “The Emergence of Political Rulership and the State in Early Japan,” pp. 77–88; Ch. 10, “Centralization and State Formation in Sixth- and Seventh-Century Japan,” pp. 98–109.
 
-*Optional:* 
+*Optional:*
 
 \[JE\] Ch. 9, “Early Japan and the Continent.” 
 
@@ -43,15 +43,33 @@ No readings assigned.
 
 *Session 4: Heian, the Era of “Peace and Tranquility”(?)*
 
-Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary History*, 81–104. \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
+Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary History*, 81–104 (M.E. Sharpe, 2005). \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
 
 \[JE\] Ch. 12, “Oligarchy, Shared Rulership, and Power Blocks,” pp.122–134;  Ch. 16, “The Shōen System,” pp.  167–177.
 
-*Optional:* 
+*Optional:*
 
 \[JE\] Ch. 11, “Emperor, Aristocracy, and the *Ritsuryō State*,” pp. 111–121;  Ch. 15, “The Provinces and the Public Economy, 700–1100,” pp. 157–166.
 
 *Session 5: Court Culture and Spirituality* 
+
+“Yūgao” and “The Pillow Book of Sei Shōnagon,” pp. 106–144, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
+
+\[JE\] Ch. 13, “Aristocratic Buddhism,” pp. 135–145; Ch. 14, “The Canons of Courtly Taste,” pp.146–156.
+
+*Optional readings - other writings by Heian court ladies:*
+
+“The Diary of Murasaki Shikibu,” pp. 145–155; “The Sarashina Diary,” pp. 156–161, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
+
+*Optional video:*
+
+“[Tale of Genji Scroll - Facsimile Editions and Medieval Illuminated Manuscripts](https://www.youtube.com/watch?v=nVJ2vDtYfyY).” YouTube.
+
+*Optional video - Video tour of a Tale of Genji exhibit at the NYC Metropolitan Museum of Art:*
+
+“[The Tale of Genji, Part One | Ancient Art Links](https://www.youtube.com/watch?v=5_d2ax-DxPg).” YouTube.
+
+“[The Tale of Genji, Part Two | Ancient Art Links](https://www.youtube.com/watch?v=CXW4hHv8ozE).” YouTube.
 
 ## Part II: Historical Samurai in Three Eras (1185–1700)
 
