@@ -103,6 +103,16 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Session 8: Ashikaga Shogunate and the Era of Rival Imperial Courts*
 
+\[SJT\] Ch. 18, “The Law of the Muromachi Shogunate,” pp. 417–420.
+
+\[SJT\] Ch. 12, “Chronicle of Great Peace: The Loyalist Heroes,” pp. 284–291.
+
+\[JE\] Ch. 20, “Go-Daigō, Takauji, and the Muromachi Shogunate,” pp. 213–223; Ch. 24, “Medieval Arts and Aesthetics,” pp. 254–266.
+
+*Optional:*
+
+\[JE\] Ch. 21, “Medieval Religion,” pp. 224–232.
+
 *Session 9: From Fires in Kyoto to “Warring States”*
 
 ### Week 6: Reunification 
