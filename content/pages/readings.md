@@ -77,6 +77,16 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Session 6: The First Samurai Wars*
 
+\[SJT\] Ch. 12, “The Way of the Warrior,” pp. 265–280.
+
+“The Fight at Dan No Ura,” pp. 180–184. in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
+
+\[JE\] Ch. 17, “The Dawn of the Samurai,” and Ch. 18, “The Kamakura Shogunate and the Beginnings of Warrior Power,” pp. 178–199.
+
+*Optional video:*
+
+“[Heiji Monogatari E - Facsimile Editions and Medieval Illuminated Manuscripts](https://www.youtube.com/watch?v=fg3-jjYnYrE).” YouTube.
+
 *Session 7: The First Samurai Government*
 
 ### Week 5: From the Second Shogunate to Warring States (1300–1500)
