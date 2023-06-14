@@ -89,6 +89,16 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Session 7: The First Samurai Government*
 
+\[SWCJ\] Section IV: “9. The Formulary of Adjudication/Jōei Code (1232),” “10. Letter from Hōjō Yasutoki Concerning the Formulary,” “11. Kamakura Amendments,” “12. *Bakufu* Justice: A Case Study,” pp. 42–69. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
+
+\[SWCJ\] Section IV: “14. Excerpt from Takezaki Suenaga’s *Scrolls of the Mongol Invasions*,” “15. Legal Amendment (Tsuikahō) Concerning Rewards,” “16. Suenaga’s Audience with Adachi Yasumori,” pp. 81–86.
+
+\[JE\] Ch. 19, “Kamakura and the Challenges of Governance,” pp. 203–212.
+
+*Optional:*
+
+“[Scrolls of the Mongol Invasion](http://digital.princeton.edu/annotatedscrolls/index.php).” Princeton University.
+
 ### Week 5: From the Second Shogunate to Warring States (1300–1500)
 
 *Session 8: Ashikaga Shogunate and the Era of Rival Imperial Courts*
