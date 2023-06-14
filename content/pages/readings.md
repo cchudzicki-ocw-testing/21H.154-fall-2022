@@ -79,7 +79,7 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 \[SJT\] Ch. 12, “The Way of the Warrior,” pp. 265–280.
 
-“The Fight at Dan No Ura,” pp. 180–184. in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
+“The Fight at Dan No Ura,” pp. 180–184. in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). 
 
 \[JE\] Ch. 17, “The Dawn of the Samurai,” and Ch. 18, “The Kamakura Shogunate and the Beginnings of Warrior Power,” pp. 178–199.
 
