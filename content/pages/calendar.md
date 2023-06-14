@@ -43,6 +43,8 @@ Essay 1 due
 
 *Session 9: From Fires in Kyoto to “Warring States”*
 
+Reading Response due: Your Favorite Sengoku Samurai Rule
+
 ### Week 6: Reunification 
 
 *Session 10: The Unifiers: Oda Nobunaga and Toyotomi Hideyoshi*
