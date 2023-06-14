@@ -125,13 +125,15 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Optional: A cool animated map of the Ōnin War*
 
-“[THE ŌNIN WAR: Visualizing 12 Years of War in Japan, 1465–78](https://commons.princeton.edu/onin/).” 
-
-Princeton University.
+“[THE ŌNIN WAR: Visualizing 12 Years of War in Japan, 1465–78](https://commons.princeton.edu/onin/).” Princeton University.
 
 ### Week 6: Reunification 
 
 *Session 10: The Unifiers: Oda Nobunaga and Toyotomi Hideyoshi*
+
+\[SJT\] Ch. 19, “The Regime of the Unifiers,” pp. 433–465; “The Korean War,” pp. 465–472.
+
+\[JE\] Ch. 29, “The Sixteenth-Century Reunification,” pp. 311–320.
 
 ### Week 7: Global Samurai and Pax Tokugawa
 
