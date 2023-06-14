@@ -21,7 +21,9 @@ uid: a64522a5-e276-4c21-8adc-8ae8023cda3b
 
 *Session 4: Heian, the Era of “Peace and Tranquility”(?)*
 
-*Session 5: Court Culture and Spirituality* 
+*Session 5: Court Culture and Spirituality*
+
+Assignment due: Reading Response: The World of Murasaki Shikibu and Sei Shōnagon
 
 ## Part II: Historical Samurai in Three Eras (1185–1700)
 
