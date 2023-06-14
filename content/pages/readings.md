@@ -115,6 +115,20 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Session 9: From Fires in Kyoto to “Warring States”*
 
+\[SWCJ\] Section VII: “3. The Ōnin War (1467–77),” “4. The Process of Praise and Rewards: A Case Study,” pp. 181–186.
+
+\[SJT\] Ch. 18, “The Law of the Warrior Houses in the Age of War in the Provinces,” “Precepts of the Warrior Houses,” and “House Precepts in the Sengoku Age,” pp. 420–432.
+
+“Takeda Shingen (1521–1573), Warlord,” pp. 43–49, in Morgan Pitelka, et al. eds., *Letters from Japan’s Sixteenth and Seventeenth Centuries: Correspondence of Warlords, Tea Masters, Zen Priests, and Aristocrats* (Institute of East Asian Studies, University of California, 2021). 
+
+\[JE\] Ch. 22, “Warriors, Warlords, and Domains,” Ch. 23, “Medieval Warfare,” pp. 233–253.
+
+*Optional: A cool animated map of the Ōnin War*
+
+“[THE ŌNIN WAR: Visualizing 12 Years of War in Japan, 1465–78](https://commons.princeton.edu/onin/).” 
+
+Princeton University.
+
 ### Week 6: Reunification 
 
 *Session 10: The Unifiers: Oda Nobunaga and Toyotomi Hideyoshi*
