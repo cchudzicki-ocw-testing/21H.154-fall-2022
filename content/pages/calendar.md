@@ -23,7 +23,7 @@ uid: a64522a5-e276-4c21-8adc-8ae8023cda3b
 
 *Session 5: Court Culture and Spirituality*
 
-Assignment due: Reading Response: The World of Murasaki Shikibu and Sei Shōnagon
+Reading Response due: The World of Murasaki Shikibu and Sei Shōnagon
 
 ## Part II: Historical Samurai in Three Eras (1185–1700)
 
@@ -31,9 +31,11 @@ Assignment due: Reading Response: The World of Murasaki Shikibu and Sei Shōnago
 
 *Session 6: The First Samurai Wars*
 
+Reading Response due: Close Reading "The Battle of Dan no Ura"
+
 *Session 7: The First Samurai Government*
 
-Assignment due: Essay 1
+Essay 1 due
 
 ### Week 5: From the Second Shogunate to Warring States (1300–1500)
 
