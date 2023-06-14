@@ -35,9 +35,21 @@ No readings assigned.
 
 \[JE\] Ch. 8, “The Emergence of Political Rulership and the State in Early Japan,” pp. 77–88; Ch. 10, “Centralization and State Formation in Sixth- and Seventh-Century Japan,” pp. 98–109.
 
+*Optional:* 
+
+\[JE\] Ch. 9, “Early Japan and the Continent.” 
+
 ### Week 3: Classical Japan
 
 *Session 4: Heian, the Era of “Peace and Tranquility”(?)*
+
+Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary History*, 81–104. \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
+
+\[JE\] Ch. 12, “Oligarchy, Shared Rulership, and Power Blocks,” pp.122–134;  Ch. 16, “The Shōen System,” pp.  167–177.
+
+*Optional:* 
+
+\[JE\] Ch. 11, “Emperor, Aristocracy, and the *Ritsuryō State*,” pp. 111–121;  Ch. 15, “The Provinces and the Public Economy, 700–1100,” pp. 157–166.
 
 *Session 5: Court Culture and Spirituality* 
 
