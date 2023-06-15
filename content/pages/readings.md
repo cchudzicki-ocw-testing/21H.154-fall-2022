@@ -139,6 +139,20 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Session 11: An Elizabethan Account of  Hideyoshi’s Nephew*
 
+“[The Tragedy of Quabacondono: An Elizabethan Account of the Last Days of Toyotomi Hidetsugi](https://muse.jhu.edu/article/805167),” *Monumenta Nipponic*a, Vol. 76.1 (2021) pp. 1–64.
+
+\[JE\] Ch. 31, “A Whole New World (Order),” pp. 333–343.
+
+*Optional:* 
+
+\[JE\] Ch. 28, “Diplomacy, Piracy, and the Space Between,” pp. 299–308.
+
+“[The Amboyna Conspiracy Trial](https://amboyna.org/).” (“Amboyna Introduction” video; “Your Verdict” modules (including videos); all modules within the “Japanese Mercenaries” exhibit.
+
+*Optional video:*
+
+“[The Unique Beliefs of Japan's Clandestine Christians](https://www.youtube.com/watch?v=1NCqJ07QHrI).” YouTube.
+
 *Session 12: The Last (and Best?) Samurai Government*
 
 ## Part III: Alternative Visions of Samurai and their World (1700–Present)
