@@ -31,7 +31,7 @@ No readings assigned.
 
 *Session 3: Overseas Influence and the Imperial State*
 
-\[SJT\] Ch. 3, “Prince Shōtoku and His Constitution,” pp. 40–55; “Chinese-style History and the Imperial Concept,” “The Reform Era,” pp. 70–84. \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
+\[SJT\] Ch.3, “Prince Shōtoku and His Constitution,” pp. 40–55; “Chinese-style History and the Imperial Concept,” “The Reform Era,” pp. 70–84. \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
 
 \[JE\] Ch. 8, “The Emergence of Political Rulership and the State in Early Japan,” pp. 77–88; Ch. 10, “Centralization and State Formation in Sixth- and Seventh-Century Japan,” pp. 98–109.
 
@@ -143,7 +143,7 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 \[JE\] Ch. 31, “A Whole New World (Order),” pp. 333–343.
 
-*Optional:* 
+*Optional:*
 
 \[JE\] Ch. 28, “Diplomacy, Piracy, and the Space Between,” pp. 299–308.
 
