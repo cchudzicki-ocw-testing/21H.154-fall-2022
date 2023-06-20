@@ -193,7 +193,15 @@ Jippensha Ikku, “The Monster Takes a Bride,” in *An Edo Anthology: Literatur
 
 *Session 15: Tsuneno’s Journey*
 
+“The People in Tsuneno’s World,” “Maps,” “A Note on Translations,” “Prologue,” “Chapter One: Faraway Places,” and “Chapter Two: Half a Lifetime in the Countryside,” pp. ix–58 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
+
+*Optional:*
+
+\[JE\] Ch. 25, “Gender Relations in the Age of Violence,” pp. 267–277; JE, Ch. 37, “Family, Gender, and Sex in Early Modern Japan,” pp. 402–412.
+
 *Session 16: Tsuneno’s Edo*
+
+“Chapter Three: To Edo,” “Chapter Four: A View from the Tenement,” “Chapter Five: Samurai Winter,” “Chapter Six: Costumes for Urban Life,” pp. 59–160 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
 
 ### Week 10: Bureaucrats and Ne’er-do-wells
 
