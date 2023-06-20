@@ -55,6 +55,8 @@ Reading Response due: Your Favorite Sengoku Samurai Rule
 
 *Session 12: The Last (and Best?) Samurai Government*
 
+Class Annotation Exercise due: SJT, “Part IV, The Tokugawa Peace” pp. 12*–*18.
+
 ## Part III: Alternative Visions of Samurai and their World (1700–Present)
 
 ### Week 8: Heroes, Villains, and Consumers
