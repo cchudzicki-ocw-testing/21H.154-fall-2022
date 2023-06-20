@@ -155,6 +155,14 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Session 12: The Last (and Best?) Samurai Government*
 
+\[SJT\] “Part IV, The Tokugawa Peace,” pp. 1–27.
+
+\[JE\] Ch. 30, “The Political Order,” pp. 321–332.
+
+*Optional video:*
+
+“[Battle of Sanada Maru (4–5 December 1614)](https://www.youtube.com/watch?v=D0TOgoDZEFY).” YouTube. (A contemporary Japanese TV drama recreating an episode from the Osaka Winter Campaign of 1614.)
+
 ## Part III: Alternative Visions of Samurai and their World (1700–Present)
 
 ### Week 8: Heroes, Villains, and Consumers
