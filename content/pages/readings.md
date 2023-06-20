@@ -207,6 +207,16 @@ Jippensha Ikku, “The Monster Takes a Bride,” in *An Edo Anthology: Literatur
 
 *Session 17: Samurai Corruption*
 
+“Chapter Seven: Troubles at Home,” pp. 161–194 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). 
+
+“Decay of the Tokugawa System” in Lu, *Japan:* *A Documentary History*, *Vol. 2* (M.E. Sharpe, 1997) pp. 273–281.
+
+*Optional:*
+
+\[JE\] Ch. 33, “Urbanization, Trade, and Merchants,” pp.344–365.
+
+“Warriors,” pp. 42–94, in Mark Teeuwen and Kate Wildman Nakai, eds., *Lust, Commerce, and Corruption: An Account of What I have Seen and Heard*, *by an Edo Samurai*. \[Preview with [Google Books](https://www.google.com/books/edition/Lust_Commerce_and_Corruption/9eBqDgAAQBAJ?hl=en&gbpv=1)\]
+
 *Session 18: “Dream-besotted” Musui*
 
 ### Week 11: The End of Samurai
