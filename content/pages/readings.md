@@ -147,7 +147,7 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 \[JE\] Ch. 28, “Diplomacy, Piracy, and the Space Between,” pp. 299–308.
 
-“[The Amboyna Conspiracy Trial](https://amboyna.org/).” (“Amboyna Introduction” video; “Your Verdict” modules (including videos); all modules within the “Japanese Mercenaries” exhibit.
+“[The Amboyna Conspiracy Trial](https://amboyna.org/).” *(“Amboyna Introduction” video; “Your Verdict” modules (including videos); all modules within the “Japanese Mercenaries” exhibit.)*
 
 *Optional video:*
 
@@ -155,19 +155,21 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Session 12: The Last (and Best?) Samurai Government*
 
-\[SJT\] “Part IV, The Tokugawa Peace,” pp. 1–27.
+“Part IV, The Tokugawa Peace,” pp. 1–27, in William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 2: 1600 To 2000* *(Second Edition)* (Columbia University Press, 2001). \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/ua6rAgAAQBAJ?hl=en&gbpv=1)\]
 
 \[JE\] Ch. 30, “The Political Order,” pp. 321–332.
 
 *Optional video:*
 
-“[Battle of Sanada Maru (4–5 December 1614)](https://www.youtube.com/watch?v=D0TOgoDZEFY).” YouTube. (A contemporary Japanese TV drama recreating an episode from the Osaka Winter Campaign of 1614.)
+“[Battle of Sanada Maru (4–5 December 1614)](https://www.youtube.com/watch?v=D0TOgoDZEFY).” YouTube. *(A contemporary Japanese TV drama recreating an episode from the Osaka Winter Campaign of 1614.)*
 
 ## Part III: Alternative Visions of Samurai and their World (1700–Present)
 
 ### Week 8: Heroes, Villains, and Consumers
 
 *Session 13: The “Forty-Seven Rōnin” Incident as History and Myth*
+
+\[SJT\] Ch. 29, “The Way of the Warrior II,” pp. 353–393. 
 
 *Session 14: Pictures and Stories of the Floating World*
 
