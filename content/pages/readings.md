@@ -169,7 +169,15 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 *Session 13: The “Forty-Seven Rōnin” Incident as History and Myth*
 
-\[SJT\] Ch. 29, “The Way of the Warrior II,” pp. 353–393. 
+Ch. 31, “The Way of the Warrior II,” pp. 437–480,  in William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 2: 1600 To 2000* *(Second Edition)* (Columbia University Press, 2001). 
+
+*Samurai Encyclopedia*, “Akô Incident,” pp. 3–9.
+
+\[JE\] Ch. 32, “The New Warriors: Samurai in Early Modern Japan,” pp. 344–355.
+
+*Optional:*
+
+Eiko Ikegami, “The Vendetta of the Forty seven Samurai,” in *The Taming of the Samurai*, pp. 223–240, (Harvard University Press, 1997).
 
 *Session 14: Pictures and Stories of the Floating World*
 
