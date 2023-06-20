@@ -203,7 +203,7 @@ Jippensha Ikku, “The Monster Takes a Bride,” in *An Edo Anthology: Literatur
 
 “Chapter Three: To Edo,” “Chapter Four: A View from the Tenement,” “Chapter Five: Samurai Winter,” “Chapter Six: Costumes for Urban Life,” pp. 59–160 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
 
-Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](https://www.historians.org/research-and-publications/perspectives-on-history/november-2018/writing-the-history-of-sexual-assault-in-the-age-of-metoo).” Perspectives on History, September 24, 2018.
+Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](https://www.historians.org/research-and-publications/perspectives-on-history/november-2018/writing-the-history-of-sexual-assault-in-the-age-of-metoo).” *Perspectives on History*, September 24, 2018.
 
 ### Week 10: Bureaucrats and Ne’er-do-wells
 
@@ -220,6 +220,16 @@ Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](ht
 “Warriors,” pp. 42–94, in Mark Teeuwen and Kate Wildman Nakai, eds., *Lust, Commerce, and Corruption: An Account of What I have Seen and Heard*, *by an Edo Samurai*. \[Preview with [Google Books](https://www.google.com/books/edition/Lust_Commerce_and_Corruption/9eBqDgAAQBAJ?hl=en&gbpv=1)\]
 
 *Session 18: “Dream-besotted” Musui*
+
+Introduction and “Adult Years,” in *Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\]
+
+*Optional:*
+
+*Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\] (Read the entire book.)
+
+*Optional video:*
+
+*“*[A day in the life of a teenage samurai - Constantine N. Vaporis](https://ed.ted.com/lessons/a-day-in-the-life-of-a-teenage-samurai-constantine-n-vaporis).*”* TEDEd.
 
 ### Week 11: The End of Samurai
 
