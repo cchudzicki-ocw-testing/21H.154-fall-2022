@@ -63,6 +63,8 @@ Class Annotation Exercise due: SJT, “Part IV, The Tokugawa Peace” pp. 12*–
 
 *Session 13: The “Forty-Seven Rōnin” Incident as History and Myth*
 
+Reading Response Due: Historical Perspectives on the Akō Incident.
+
 *Session 14: Pictures and Stories of the Floating World*
 
 Assignment due: Essay 2
