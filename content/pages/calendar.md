@@ -75,6 +75,10 @@ Assignment due: Essay 2
 
 *Session 16: Tsuneno’s Edo*
 
+In-class activity: Mapping and Visualizing Tsuneno's Edo
+
+Reading Response Due: Locating Tsuneno's Edo 
+
 ### Week 10: Bureaucrats and Ne’er-do-wells
 
 *Session 17: Samurai Corruption*
