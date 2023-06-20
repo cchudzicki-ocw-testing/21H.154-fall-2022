@@ -181,6 +181,14 @@ Eiko Ikegami, “The Vendetta of the Forty seven Samurai,” in *The Taming of t
 
 *Session 14: Pictures and Stories of the Floating World*
 
+“Introduction” in Julie Nelson Davis, *Picturing the Floating World: Ukiyo-e in Context* (University of Hawai’i Press, 2021) pp. 1–21. \[Preview with [Google Books](https://www.google.com/books/edition/Picturing_the_Floating_World/YYOUEAAAQBAJ?hl=en&gbpv=1)\]
+
+\[JE\] Ch. 34, “Ukiyo asobi,” pp. 366–377.
+
+*Optional:*
+
+Jippensha Ikku, “The Monster Takes a Bride,” in *An Edo Anthology: Literature from Japan’s Mega-City, 1750–1850* (University of Hawai’i Press, 2013), pp. 137–167.
+
 ### Week 9: Women in a Samurai World
 
 *Session 15: Tsuneno’s Journey*
