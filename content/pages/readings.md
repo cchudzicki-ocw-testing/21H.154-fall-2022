@@ -57,7 +57,7 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 \[JE\] Ch. 13, “Aristocratic Buddhism,” pp. 135–145; Ch. 14, “The Canons of Courtly Taste,” pp.146–156.
 
-*Optional readings - other writings by Heian court ladies:*
+*Optional (other writings by Heian court ladies):*
 
 “The Diary of Murasaki Shikibu,” pp. 145–155; “The Sarashina Diary,” pp. 156–161, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
 
@@ -65,7 +65,7 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 “[Tale of Genji Scroll - Facsimile Editions and Medieval Illuminated Manuscripts](https://www.youtube.com/watch?v=nVJ2vDtYfyY).” YouTube.
 
-*Optional video - Video tour of a Tale of Genji exhibit at the NYC Metropolitan Museum of Art:*
+*Optional video (a video tour of a Tale of Genji exhibit at the NYC Metropolitan Museum of Art):*
 
 “[The Tale of Genji, Part One | Ancient Art Links](https://www.youtube.com/watch?v=5_d2ax-DxPg).” YouTube.
 
@@ -123,7 +123,7 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 \[JE\] Ch. 22, “Warriors, Warlords, and Domains,” Ch. 23, “Medieval Warfare,” pp. 233–253.
 
-*Optional: A cool animated map of the Ōnin War*
+*Optional (a cool animated map of the Ōnin War):*
 
 “[THE ŌNIN WAR: Visualizing 12 Years of War in Japan, 1465–78](https://commons.princeton.edu/onin/).” Princeton University.
 
@@ -225,7 +225,7 @@ Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](ht
 
 *Optional:*
 
-*Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\] (Read the entire book.)
+*Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\] *(Read the entire book.)*
 
 *Optional video:*
 
