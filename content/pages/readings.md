@@ -239,9 +239,13 @@ Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](ht
 
 *Session 20: A Samurai Prince in 19th-Century Massachusetts* 
 
+*The Autobiography of Baron Chōkichi Kikkawa* (1918), pp. 1–59.
+
 ### Week 12: Modern Samurai
 
 *Session 21: “Bushidō”*
+
+No readings assigned.
 
 ### Week 13: Are We All Samurai Now? 
 
