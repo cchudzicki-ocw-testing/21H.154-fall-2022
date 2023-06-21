@@ -9,9 +9,7 @@ uid: 01976161-068b-44e5-aaf8-7eb7a448bfb0
 
 For this essay, choose one\*\*\* of the 5 sets of historical sources we have discussed in class that, in your view, contains a key theme that is especially important for us to understand the social, cultural, and/or political experiences of the inhabitants of the Japanese archipelago during the period preceding the rise of the first samurai government in 1185.
 
-In the essay, make the case for your argument by **citing specific examples from your chosen set of historical sources**. Back up your analysis and claims about the historical sources by **citing specific passages from the** ***Japan Emerging*** **(JE)**
-
-**readings as well as points made during in-class lectures and discussions** (you may also want to consult the “Resources” module on Canvas for introductions to Buddhism and Confucianism).
+In the essay, make the case for your argument by **citing specific examples from your chosen set of historical sources**. Back up your analysis and claims about the historical sources by **citing specific passages from the** ***Japan Emerging*** **(JE) readings as well as points made during in-class lectures and discussions** (you may also want to consult the “Resources” module on Canvas for introductions to Buddhism and Confucianism).
 
 This essay is designed to be completed with in-class materials. Do not cite outside sources beyond the required or optional materials listed in the {{% resource_link "7f543041-3658-4cb1-96fe-904d6956eb24" "Readings" %}} section.
 
@@ -37,9 +35,9 @@ Ch. 3, “Prince Shōtoku and His Constitution,” pp. 40–55; “Chinese-style
 
 Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary History*, 81–104. \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
 
-**Historical Sources Option 4: Court Culture and Spirituality** 
+**Historical Sources Option 4: Court Culture and Spirituality**
 
-“Yūgao” and “The Pillow Book of Sei Shōnagon,” pp. 106–144 (from Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
+“Yūgao” and “The Pillow Book of Sei Shōnagon,” pp. 106–144, in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955). \[Preview with [Google Books](https://www.google.com/books/edition/Anthology_of_Japanese_Literature/R7McAwAAQBAJ?hl=en&gbpv=1)\]
 
 **Historical Sources Option 5:  The First Samurai Wars**
 
@@ -51,7 +49,7 @@ Ch. 12, “The Way of the Warrior,” pp. 265–280, William Theodore de Barry, 
 
 - Your essay should be formatted in the following manner:
 - Give the essay a title
--  1,000 words (roughly 4 pages, double-spaced)
+- 1,000 words (roughly 4 pages, double-spaced)
 - 12-pt. Times or Times New Roman font
 - Double-spaced
 - 1-inch margin
