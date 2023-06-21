@@ -221,7 +221,7 @@ Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](ht
 
 *Session 18: “Dream-besotted” Musui*
 
-Introduction and “Adult Years,” in *Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\]
+“Introduction,” and “Adult Years,” in *Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\]
 
 *Optional:*
 
@@ -234,6 +234,8 @@ Introduction and “Adult Years,” in *Musui’s Story: The Autobiography of a
 ### Week 11: The End of Samurai
 
 *Session 19: The Fall of Tokugawa and Aizu*
+
+“Introduction,” “Preface,” “Childhood,” “Beginning of the Tragedy,” “Reaction in Aizu,” “A Fight to the Death,” “A Sea of Fire,” “A Night of Despair,” and “Last Days of the Bakufu, pp. 1-62, in Teruko Craig, trans., *Remembering Aizu: The Testament of Shiba Goro* (University of Hawai’i Press, 1999). \[Preview with [Google Books](https://www.google.com/books/edition/Remembering_Aizu/xMmO7XM0XoEC?hl=en&gbpv=1)\]
 
 *Session 20: A Samurai Prince in 19th-Century Massachusetts* 
 
