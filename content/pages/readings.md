@@ -261,8 +261,14 @@ No readings assigned.
 
 *Session 24: Final Essay Workshop I: Discussion of Individual Sources*
 
+No readings assigned.
+
 *Session 25: Final Essay Workshop II: Discussion of Historical Contexts*
+
+No readings assigned.
 
 ### Week 15: Presentation Week
 
 Session 26: Final Presentations
+
+No readings assigned.
