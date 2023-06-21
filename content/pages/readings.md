@@ -251,7 +251,11 @@ No readings assigned.
 
 *Session 22: A Contemporary Samurai Film*
 
+No readings assigned.
+
 *Session 23: “Samurai” Today*
+
+“Introduction,” pp. 1–14, in Oleg Benesch, *Inventing the Way of the Samurai: Nationalism, Internationalism, and Bushidō in Modern Japan* (University of Oxford Press, 2014). \[Preview with [Google Books](https://www.google.com/books/edition/Inventing_the_Way_of_the_Samurai/xc1LBAAAQBAJ?hl=en&gbpv=1)\]
 
 ### Week 14: Final Essay Prep Week
 
