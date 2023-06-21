@@ -63,7 +63,7 @@ Class Annotation Exercise due: SJT, “Part IV, The Tokugawa Peace,” pp. 12–
 
 *Session 13: The “Forty-Seven Rōnin” Incident as History and Myth*
 
-Reading Response Due: Historical Perspectives on the Akō Incident.
+Reading Response due: Historical Perspectives on the Akō Incident.
 
 *Session 14: Pictures and Stories of the Floating World*
 
@@ -77,7 +77,7 @@ Assignment due: Essay 2
 
 In-class activity: Mapping and Visualizing Tsuneno's Edo
 
-Reading Response Due: Locating Tsuneno's Edo 
+Reading Response due: Locating Tsuneno's Edo 
 
 ### Week 10: Bureaucrats and Ne’er-do-wells
 
@@ -90,6 +90,8 @@ Reading Response Due: Locating Tsuneno's Edo 
 *Session 19: The Fall of Tokugawa and Aizu*
 
 *Session 20: A Samurai Prince in 19th-Century Massachusetts* 
+
+Group Annotation due : The Autobiography of Baron Chōkichi Kikkawa (1917)
 
 ### Week 12: Modern Samurai
 
