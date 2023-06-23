@@ -5,31 +5,31 @@ draft: false
 title: Syllabus
 uid: db1979e7-1a9b-40de-b048-6485def6f07e
 ---
-### Course Meeting Times
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 2.5 hours / session
 
-### Prerequisites
+## Prerequisites
 
 There are no prerequisites for this course.
 
-### Course Description
+## Course Description
 
 This class explores the history, and the mythology, of the famous Japanese warriors, from their origins in classical Japan to their various reincarnations throughout the archipelago's history. We will start in Japan's pre-modern era (200–1600 CE) and follow key historical developments such as the rise of samurai as a recognizable social group, the transformation of Japan into a warrior-governed state, and the ways in which these events reshaped the politics, society, economy, and culture of the entire country. The class will also consider how the samurai identity continued to be reinvented throughout Japan's history and why, even today, they capture the imaginations of many people not only in Japan but around the world.
 
-### Class Goals
+## Class Goals
 
 1. Gain a deep and nuanced understanding of the significance of “samurai” both as a historical phenomenon and a product of global imagination.
 2. Develop the ability to demonstrate such understanding through clear, accurate, and persuasive writing.
 3. Share our learning and discoveries as a class through discussions and presentations.
 
-### Required Text
+## Required Text
 
 Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
 
 All other required readings can be found in the {{% resource_link "7f543041-3658-4cb1-96fe-904d6956eb24" "Readings" %}} section.
 
-### Grading Policy
+## Grading Policy
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
@@ -69,7 +69,7 @@ For detail on the essays, see the {{% resource_link "f8ba7b70-6ae4-446b-8fa7-e40
 65%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-### Note on Japanese Names and Pronunciation
+## Note on Japanese Names and Pronunciation
 
 In Japanese, the surname precedes the given name. My name, for example, would be rendered as “Nagahara Hiromu.” Please note that many of the assigned readings follow this convention for Japanese names.
 
