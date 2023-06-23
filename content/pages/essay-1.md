@@ -5,7 +5,7 @@ draft: false
 title: Essay 1
 uid: 01976161-068b-44e5-aaf8-7eb7a448bfb0
 ---
-### Close Reading and Analysis of Historical Sources
+## Close Reading and Analysis of Historical Sources
 
 For this essay, choose one\*\*\* of the 5 sets of historical sources we have discussed in class that, in your view, contains a key theme that is especially important for us to understand the social, cultural, and/or political experiences of the inhabitants of the Japanese archipelago during the period preceding the rise of the first samurai government in 1185.
 
