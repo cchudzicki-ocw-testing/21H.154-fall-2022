@@ -70,4 +70,4 @@ Questions to ask before turning in your paper:
 - Are my sentences concise, clear, and emphatic? Are needless words and inflated language eliminated?
 - Is the **final paragraph** conclusive without being repetitive?
 
-Essay 1 is due during Session 7 and counts for 15% of the final course grade.
+Essay 1 is due during session 7 and counts for 15% of the final course grade.
