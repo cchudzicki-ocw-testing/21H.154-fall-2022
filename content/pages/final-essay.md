@@ -13,4 +13,18 @@ Since the late 19th century, many Japanese and non-Japanese observers have come 
 
 Your essay should focus on a single, book-length or similarly substantial primary source. The primary source can either be a larger portion of one of the assigned sources we have discussed in class or may be an entirely new source. The primary task for this paper is to analyze the selected primary source using contextual information provided by in-class lectures, discussions, assigned readings, and at least one additional chapter- or article-length scholarly source. Your primary source and outside secondary source(s) should be chosen in consultation with the instructor.
 
-If you are taking this class as a Japanese-language option subject (21G.554), you are required to incorporate at least one Japanese language primary or secondary source into this essay. The source should be chosen in consultation with the instructor. When you submit your final paper, you are also required to submit a translated abstract (300~500 words) of your source.
+If you are taking this class as a Japanese-language option subject (21G.554), you are required to incorporate at least one Japanese language primary or secondary source into this essay. The source should be chosen in consultation with the instructor. When you submit your final paper, you are also required to submit a translated abstract (300–500 words) of your source.
+
+## Major Steps
+
+**Step 1:** Conceptualize and decide on the main subject of your research.
+
+It might be helpful to start by looking through the assigned texts in the syllabus. 
+
+Look through the Table of Contents in [*Japan Emerging*](https://doi.org/10.4324/9780429499531)*,* and take a quick look at any chapters that sound interesting. 
+
+Look through the list of entries in [*Samurai: An Encyclopedia of Japan's Cultured Warriors*](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=2037106&site=ehost-live&scope=site&authtype=sso&custid=s8978330&ebv=EB&ppid=pp_Cover).
+
+Talk to your instructor!
+
+**Step 2:** Decide on the main source that you will analyze.
