@@ -42,4 +42,15 @@ Your essay should be formatted in the following manner:
 
 Cite sources in footnotes in accordance with the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). Your citation should identify the title of the specific document you’re citing, its author (if available), the citation information for the book your document comes from, and, most importantly, the page number of the passage you’re citing.
 
+**Additional Essay Tips**
+
+Questions to ask before turning in your paper:
+
+- Is the **title** of my essay informative?
+- Do I state **my thesis** point soon enough, perhaps even in the first sentence, and keep it in view throughout the paper? Is the opening paragraph interesting, and by its end, have I focused on the topic?
+- Is **my organization** clear? Does each point lead into the next, without irrelevancies and without anticlimaxes?
+- Is **each paragraph** unified by a topic sentence or topic idea?
+- Are my sentences concise, clear, and emphatic? Are needless words and inflated language eliminated?
+- Is the **final paragraph** conclusive without being repetitive?
+
 Essay 2 is due during session 14 and counts for 20% of the final course grade.
