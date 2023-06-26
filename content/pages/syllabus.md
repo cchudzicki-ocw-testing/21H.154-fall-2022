@@ -13,6 +13,8 @@ Lectures: 2 sessions / week, 2.5 hours / session
 
 There are no prerequisites for this course.
 
+Note: This subject meets with 21G.554. For those students, [*21G.504 Japanese IV*](https://ocw.mit.edu/courses/21g-504-japanese-iv-spring-2020/) is a prerequisite or the permission of the instructor.
+
 ## Course Description
 
 This class explores the history, and the mythology, of the famous Japanese warriors, from their origins in classical Japan to their various reincarnations throughout the archipelago's history. We will start in Japan's pre-modern era (200–1600 CE) and follow key historical developments such as the rise of samurai as a recognizable social group, the transformation of Japan into a warrior-governed state, and the ways in which these events reshaped the politics, society, economy, and culture of the entire country. The class will also consider how the samurai identity continued to be reinvented throughout Japan's history and why, even today, they capture the imaginations of many people not only in Japan but around the world.
