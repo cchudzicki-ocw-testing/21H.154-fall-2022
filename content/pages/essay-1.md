@@ -59,7 +59,7 @@ Ch. 12, “The Way of the Warrior,” pp. 265–280, William Theodore de Barry, 
 
 Cite sources in footnotes in accordance with the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). Your citation should identify the title of the specific document you’re citing, its author (if available), the citation information for the book your document comes from, and, most importantly, the page number of the passage you’re citing.
 
-**Some Essay Tips**
+**Additional Essay Tips**
 
 Questions to ask before turning in your paper:
 
