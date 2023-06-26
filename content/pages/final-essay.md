@@ -21,9 +21,9 @@ If you are taking this class as a Japanese-language option subject (21G.554), yo
 
 It might be helpful to start by looking through the assigned texts in the syllabus. 
 
-Look through the Table of Contents in [*Japan Emerging*](https://doi.org/10.4324/9780429499531)*,* and take a quick look at any chapters that sound interesting. 
+Look through the Table of Contents in *Japan Emerging,* and take a quick look at any chapters that sound interesting. \[Preview with [Google Books](https://www.google.com/books/edition/Japan_Emerging/iUtWDwAAQBAJ?hl=en&gbpv=1)\]
 
-Look through the list of entries in [*Samurai: An Encyclopedia of Japan's Cultured Warriors*](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=2037106&site=ehost-live&scope=site&authtype=sso&custid=s8978330&ebv=EB&ppid=pp_Cover).
+Look through the list of entries in *Samurai: An Encyclopedia of Japan's Cultured Warriors*. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_An_Encyclopedia_of_Japan_s_Cultu/lPaKDwAAQBAJ?hl=en&gbpv=1)\]
 
 Talk to your instructor!
 
