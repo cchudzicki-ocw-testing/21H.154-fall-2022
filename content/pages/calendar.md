@@ -67,7 +67,7 @@ Reading Response due: Historical Perspectives on the Akō Incident.
 
 *Session 14: Pictures and Stories of the Floating World*
 
-Assignment due: Essay 2
+Essay 2 due
 
 ### Week 9: Women in a Samurai World
 
@@ -117,4 +117,4 @@ In-class viewing: [*The Hidden Blade*](https://www.imdb.com/title/tt0442286/?re
 
 *Session 26: Final Presentations*
 
-Assignment due: Final Essay
+Final Essay due
