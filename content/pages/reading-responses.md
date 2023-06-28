@@ -1,7 +1,7 @@
 ---
 content_type: page
-description: This section contains information about the reading responses due during
-  the semester.
+description: This section contains information about the reading response and annotation
+  posts due during the semester.
 draft: false
 title: Reading Response Posts and Annotations
 uid: 2062b99d-ebc1-4e84-adde-bc0413a60006
@@ -48,3 +48,13 @@ Start annotating by clicking this link: [https://kami.app/6rq-Z3H-9Tn-UZY](https
 ## Historical Perspectives on the Akō Incident
 
 Session 13's reading from the *Samurai Encyclopedia* offers various competing, historical perspectives that emerged in response to the actions of those who were involved in the Akō Incident. While you are expected to read all of these perspectives, each student has been assigned one particular perspective to highlight in this discussion thread. Carefully read your assigned perspective and post a short paragraph that summarizes its main arguments in your own words. We will use this as a basis for a 'role-play' discussion during session 14.
+
+This response is due during session 13.
+
+## Locating Tsuneno's Edo
+
+For this set of readings, identify one geographical location **within or near the city of Edo** that is mentioned in Stanley's *Stranger in the Shogun’s City* (**\*please make sure to cite the page # in which the location appears**). This could be a particular neighborhood, estate, shrine, street, or any other places that are mentioned in the chapters of the book. In a few sentences, describe the significance of the place as described in the book. If there's a particularly useful and effective passage in the book, you may quote Stanley's words at the end of your post.
+
+**\*\*\*Each post should discuss a separate location, i.e. if someone else has posted on a site you planned to discuss, you'll need to find a new site for your own post.\*\*\***
+
+This response is due during session 16.
