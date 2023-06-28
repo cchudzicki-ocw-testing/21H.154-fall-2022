@@ -20,7 +20,7 @@ leftnav:
   pageRef: /pages/assignments
   weight: 50
 - identifier: 2062b99d-ebc1-4e84-adde-bc0413a60006
-  name: Reading Responses
+  name: Reading Response Posts and Annotations
   pageRef: /pages/reading-responses
   parent: f8ba7b70-6ae4-446b-8fa7-e409020ad97c
   weight: 10
