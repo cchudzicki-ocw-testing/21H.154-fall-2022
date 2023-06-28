@@ -45,4 +45,9 @@ Here are some historical sources that would make a good primary subject for this
 
 **Step 3:** Find and select at least one chapter- or article-length scholarly sources that you will use to analyze your main source.
 
+- If your main source has an “Introduction” or bibliography, those might be good places to start finding suggestions for additional scholarly sources.
+- Look at the “Sources and Suggestions for Further Reading” sections at the end of the *Japan Emerging* chapter you’re interested in. It typically lists major historical and secondary sources that you might choose to read in depth.
+- Each entry in the *Samurai: An Encyclopedia of Japan's Cultured Warriors* book also has a “further reading” section at the end that lists additional sources.
+- Talk to your instructor! 
+
 This essay  is due during the final session and counts for 30% of the course grade.
