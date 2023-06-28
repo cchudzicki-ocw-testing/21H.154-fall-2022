@@ -77,7 +77,7 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 In-class activity: Mapping and Visualizing Tsuneno's Edo
 
-Reading Response due: Locating Tsuneno's Edo 
+Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Locating Tsuneno's Edo" %}} 
 
 ### Week 10: Bureaucrats and Ne’er-do-wells
 
@@ -91,7 +91,7 @@ Reading Response due: Locating Tsuneno's Edo 
 
 *Session 20: A Samurai Prince in 19th-Century Massachusetts* 
 
-Group Annotation due : The Autobiography of Baron Chōkichi Kikkawa (1917)
+Group Annotation due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "The Autobiography of Baron Chōkichi Kikkawa (1917)" %}}
 
 ### Week 12: Modern Samurai
 
