@@ -13,7 +13,7 @@ In the essay, make the case for your argument by **citing specific examples fro
 
 This essay is designed to be completed with in-class materials. Do not cite outside sources beyond the required or optional materials listed in the {{% resource_link "7f543041-3658-4cb1-96fe-904d6956eb24" "Readings" %}} section.
 
-**A note on why it is critically necessary to cite from both the historical AND scholarly sources (JE , lectures) in order to write a successful piece of historical analysis:**
+**A note on why it is critically necessary to cite from both the historical AND scholarly sources (JE, lectures) in order to write a successful piece of historical analysis:**
 
 1. If you only cite the JE readings or the lecture, your essay is, in the end, only a summary of those scholarly works. You need to directly engage with and cite from the historical sources in order to present your own interpretation of history.
 2. If you only cite from the historical sources, you are unable to evaluate and validate your personal interpretation of these sources. Citing scholarly sources transforms your interpretation of historical sources from something that is purely subjective into an informed opinion that is backed up by existing scholarship.
