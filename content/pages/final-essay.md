@@ -37,13 +37,16 @@ Donald Keene (trans.), *Chūshingura (The Treasury of Loyal Retainers)*. (Colum
 
 Anne Walthall, trans. and ed., *Peasant Uprisings in Japan*. (University of Chicago Press, 1991). A collection of translated historical sources on the Tokugawa-era peasant rebellions against samurai rule. \[Preview with [Google Books](https://www.google.com/books/edition/Peasant_Uprisings_in_Japan/mXiwI_oZfyoC?hl=en&gbpv=1)\] 
 
-- "Introduction."
-- E.g. the "Story of Sakura Sōgorō."
+"Introduction."
+
+E.g. the "Story of Sakura Sōgorō."
 
 Stories by the Edo-period writer, Ihara Saikaku: *Five Women Who Loved Love*. (Tuttle Publishing, 1956.)
 
 Mark Teeuwen and Kate Wildman Nakai, eds., *Lust, Commerce, and Corruption: An Account of What I have Seen and Heard, by an Edo Samurai.* (Columbia University Press, 2014). An observation of the late Edo period by a high-ranking samurai. \[Preview with [Google Books](https://www.google.com/books/edition/Lust_Commerce_and_Corruption/9eBqDgAAQBAJ?hl=en&gbpv=1)\] 
 
 *Musui’s Story: The Autobiography of a Tokugawa Samurai.* (University of Arizona Press, 1988). The autobiography of an extremely colorful, misbehaving samurai. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\]
+
+*Remembering Aizu: The Testament of Shiba Goro*. (University of Hawai’i Press, 1999). \[Preview with [Google Books](https://www.google.com/books/edition/Remembering_Aizu/xMmO7XM0XoEC?hl=en&gbpv=1)\]
 
 This essay  is due during the final session and counts for 30% of the course grade.
