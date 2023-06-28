@@ -16,7 +16,7 @@ For this response post, write one 200–300-word paragraph that identifies a maj
 
 This response is due during session 5.
 
-## Close Reading “The Battle of Dan no Ura”
+## Close Reading: “The Battle of Dan no Ura”
 
 1. Quote a phrase or a short passage (at most a few sentences) from "The Fight at Dan no Ura" reading that strikes you as EITHER a) especially important OR b) intriguing but also puzzling.
 2. In one or two sentences, briefly explain why you chose that particular passage.
@@ -37,3 +37,10 @@ Once you've completed the required readings for week 5, post the following:
 ## Class Annotation Exercise: “Part IV, The Tokugawa Peace” 
 
 For this week's annotation exercise, we will annotate the same set of texts ("Code for the Warrior Households" and "Code for the Imperial Court and Court Nobility," from *Sources of Japanese Tradition, Volume 1: From the Earliest Times to 1600 (Second Edition),* pp. 12*–*18) as a class. Please do so as instructed below:
+
+1. First read through the two sets of laws.
+2. Highlight TWO articles of law by choosing ONE from each of the two sets of laws.
+3. For each of your two laws, explain why, to the best of your knowledge, you think it might help the Tokugawa Shogunate consolidate its rule over Japan. If you have any questions or misgivings about the law, you may also note that in the comment.
+4. If someone else has already chosen to annotate your preferred law, choose another one that hasn't been chosen yet!
+
+Start annotating by clicking this link: [https://kami.app/6rq-Z3H-9Tn-UZY](https://kami.app/6rq-Z3H-9Tn-UZY)
