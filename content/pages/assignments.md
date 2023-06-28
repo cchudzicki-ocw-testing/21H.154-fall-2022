@@ -11,7 +11,7 @@ During most weeks, students will be required to either post responses to the ins
 
 These will count for 10% of the final course grade.
 
-For further detail, see {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Reading Responses" %}}.
+For further detail, see {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Reading Response Posts and Annotations" %}}.
 
 ## Essays
 
