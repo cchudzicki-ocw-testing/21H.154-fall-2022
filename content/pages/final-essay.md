@@ -49,4 +49,8 @@ Mark Teeuwen and Kate Wildman Nakai, eds., *Lust, Commerce, and Corruption: An 
 
 *Remembering Aizu: The Testament of Shiba Goro*. (University of Hawai’i Press, 1999). \[Preview with [Google Books](https://www.google.com/books/edition/Remembering_Aizu/xMmO7XM0XoEC?hl=en&gbpv=1)\]
 
+*The Autobiography of Baron Chōkichi Kikkawa* (1918). An autobiography of a young samurai prince who became one of the first Japanese graduates of Harvard College. Originally written in English.
+
+Nitobe Inazō, [*Bushido: The Soul of Japan* (1907)](https://www.google.com/books/edition/Bushido_the_Soul_of_Japan/53E1XrRRpPQC?hl=en&gbpv=1). The book that introduced “bushido” to the Western audience. Originally published in English. 
+
 This essay  is due during the final session and counts for 30% of the course grade.
