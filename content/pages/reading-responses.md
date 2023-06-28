@@ -58,3 +58,18 @@ For this set of readings, identify one geographical location **within or near th
 **\*\*\*Each post should discuss a separate location, i.e. if someone else has posted on a site you planned to discuss, you'll need to find a new site for your own post.\*\*\***
 
 This response is due during session 16.
+
+## Group Annotation: *The Autobiography of Baron Chōkichi Kikkawa* 
+
+We will annotate *The Autobiography of Baron Chōkichi Kikkawa* as a class. Please do so as instructed below:
+
+1. Read through the ENTIRE document FIRST. In particular, don't miss the discussion on the "House law" towards the end.
+2. AFTER you've read through the Autobiography, highlight TWO passages:
+    1. A passage that, in your view, reflects Kikkawa's identity as a samurai.
+    2. A passage that, in your view, reflects Kikkawa's transformation into a post-samurai identity.
+3. For each of your two highlighted passages, briefly explain your choice using the comment function.
+4. \*\*\*If someone else has already chosen to annotate your preferred passage, **choose a different passage!**
+
+Start annotating by clicking this link: [https://kami.app/6rq-Z3H-9Tn-UZY](https://kami.app/6rq-Z3H-9Tn-UZY).
+
+This response is due during session 20.
