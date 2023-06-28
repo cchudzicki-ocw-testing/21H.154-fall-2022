@@ -18,9 +18,18 @@ This response is due during session 5.
 
 ## Close Reading “The Battle of Dan no Ura”
 
-This response is due during session 7.
-
 1. Quote a phrase or a short passage (at most a few sentences) from "The Fight at Dan no Ura" reading that strikes you as EITHER a) especially important OR b) intriguing but also puzzling.
 2. In one or two sentences, briefly explain why you chose that particular passage.
 
 We will use your post as a basis for an in-class exercise.
+
+This response is due during session 7.
+
+## Your Favorite Sengoku Samurai Rule
+
+Once you've completed the required readings for week 5, post the following:
+
+- Quote one samurai precept or law from either 
+    1. "The Seventeen-Article Testament of Asakura Toshikage" (pp.429*–*431) or
+    2. Takeda Nobushige's "Ninety-Nine-Article Testament" (pp. 431*–*432).
+- Explain in a short paragraph why this passage strikes you as particularly interesting, revealing, and/or puzzling, especially in comparison to the other "laws" and "codes" we have discussed in this class until now.
