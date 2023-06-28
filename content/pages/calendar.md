@@ -55,7 +55,7 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 *Session 12: The Last (and Best?) Samurai Government*
 
-Class Annotation Exercise due: “Part IV, The Tokugawa Peace,” pp. 12–18.
+Class Annotation Exercise due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "“Part IV, The Tokugawa Peace,” pp. 12–18" %}}.
 
 ## Part III: Alternative Visions of Samurai and their World (1700–Present)
 
