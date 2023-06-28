@@ -53,4 +53,4 @@ Questions to ask before turning in your paper:
 - Are my sentences concise, clear, and emphatic? Are needless words and inflated language eliminated?
 - Is the **final paragraph** conclusive without being repetitive?
 
-Essay 2 is due during session 14 and counts for 20% of the final course grade.
+Essay 2 is due during session 14 and counts for 20% of the course grade.
