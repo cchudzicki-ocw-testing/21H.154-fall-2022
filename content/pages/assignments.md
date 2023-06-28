@@ -7,11 +7,11 @@ uid: f8ba7b70-6ae4-446b-8fa7-e409020ad97c
 ---
 ## Reading Response Posts and Annotations
 
-During most weeks, students will be required to either post responses to the instructor’s discussion prompts on required readings or participate in small group exercises such as annotating historical sources. All of these will be posted on the class Canvas site. As with Participation, evaluation will be based on completion and quality.
+During most weeks, students will be required to either post responses to the instructor’s discussion prompts on required readings or participate in small group exercises such as annotating historical sources. As with participation, evaluation will be based on completion and quality.
 
 These will count for 10% of the final course grade.
 
-For further detail, see Reading Responses.
+For further detail, see {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Reading Responses" %}}.
 
 ## Essays
 
