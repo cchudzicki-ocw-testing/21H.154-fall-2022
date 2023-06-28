@@ -29,4 +29,15 @@ Talk to your instructor!
 
 **Step 2:** Decide on the main source that you will analyze.
 
+Here are some historical sources that would make a good primary subject for this assignment:
+
+“Kirishitan monogatari” (The Tale of Christians) in George Elison, *Deus Destroyed*. (Harvard University Press, 1973). This volume also contains other sources, including translations of Japanese sources, on Christianity in 16th and 17th century Japan. 
+
+Donald Keene (trans.), *Chūshingura (The Treasury of Loyal Retainers)*. (Columbia University Press, 1971). The puppet play version of the 47-Ronin incident.
+
+Anne Walthall, trans. and ed., *Peasant Uprisings in Japan*. (University of Chicago Press, 1991). \[Preview with [Google Books](https://www.google.com/books/edition/Peasant_Uprisings_in_Japan/mXiwI_oZfyoC?hl=en&gbpv=1)\] A collection of translated historical sources on the Tokugawa-era peasant rebellions against samurai rule.
+
+- "Introduction."
+- E.g. the "Story of Sakura Sōgorō."
+
 This essay  is due during the final session and counts for 30% of the course grade.
