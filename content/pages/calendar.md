@@ -31,7 +31,7 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 *Session 6: The First Samurai Wars*
 
-Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Close Reading \"The Battle of Dan no Ura\"" %}}
+Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Close Reading: \"The Battle of Dan no Ura\"" %}}
 
 *Session 7: The First Samurai Government*
 
