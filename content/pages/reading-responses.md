@@ -15,3 +15,12 @@ Murasaki Shikibu and Sei Shōnagon were contemporaries to each other. In fact, t
 For this response post, write one 200–300-word paragraph that identifies a major theme in the writings of Murasaki Shikibu and Sei Shōnagon that strikes you as especially important or puzzling. As you do so, mention at least one specific passage of either of their writings (including the page #).
 
 This response is due during session 5.
+
+## Close Reading “The Battle of Dan no Ura”
+
+This response is due during session 7.
+
+1. Quote a phrase or a short passage (at most a few sentences) from "The Fight at Dan no Ura" reading that strikes you as EITHER a) especially important OR b) intriguing but also puzzling.
+2. In one or two sentences, briefly explain why you chose that particular passage.
+
+We will use your post as a basis for an in-class exercise.
