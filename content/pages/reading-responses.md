@@ -3,7 +3,7 @@ content_type: page
 description: This section contains information about the reading responses due during
   the semester.
 draft: false
-title: Reading Responses
+title: Reading Response Posts and Annotations
 uid: 2062b99d-ebc1-4e84-adde-bc0413a60006
 ---
 ## The World of Murasaki Shikibu and Sei Shōnagon
