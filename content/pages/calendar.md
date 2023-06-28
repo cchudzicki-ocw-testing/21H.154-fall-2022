@@ -23,7 +23,7 @@ uid: a64522a5-e276-4c21-8adc-8ae8023cda3b
 
 *Session 5: Court Culture and Spirituality*
 
-Reading Response due: The World of Murasaki Shikibu and Sei Shōnagon
+Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "The World of Murasaki Shikibu and Sei Shōnagon" %}}
 
 ## Part II: Historical Samurai in Three Eras (1185–1700)
 
