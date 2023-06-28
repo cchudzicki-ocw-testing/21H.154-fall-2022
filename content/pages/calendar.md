@@ -55,7 +55,7 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 *Session 12: The Last (and Best?) Samurai Government*
 
-Class Annotation Exercise due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "“Part IV, The Tokugawa Peace,” pp. 12–18" %}}.
+Class Annotation Exercise due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "“Part IV, The Tokugawa Peace,” pp. 12–18" %}}
 
 ## Part III: Alternative Visions of Samurai and their World (1700–Present)
 
@@ -63,7 +63,7 @@ Class Annotation Exercise due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413
 
 *Session 13: The “Forty-Seven Rōnin” Incident as History and Myth*
 
-Reading Response due: Historical Perspectives on the Akō Incident.
+Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Historical Perspectives on the Akō Incident" %}}
 
 *Session 14: Pictures and Stories of the Floating World*
 
