@@ -35,7 +35,7 @@ Reading Response due: Close Reading "The Battle of Dan no Ura"
 
 *Session 7: The First Samurai Government*
 
-Essay 1 due
+{{% resource_link "01976161-068b-44e5-aaf8-7eb7a448bfb0" "Essay 1 due" %}}
 
 ### Week 5: From the Second Shogunate to Warring States (1300–1500)
 
@@ -67,7 +67,7 @@ Reading Response due: Historical Perspectives on the Akō Incident.
 
 *Session 14: Pictures and Stories of the Floating World*
 
-Essay 2 due
+{{% resource_link "5978efe5-5a08-43d7-b0aa-c1c087a05774" "Essay 2 due" %}}
 
 ### Week 9: Women in a Samurai World
 
@@ -117,4 +117,4 @@ In-class viewing: [*The Hidden Blade*](https://www.imdb.com/title/tt0442286/?re
 
 *Session 26: Final Presentations*
 
-Final Essay due
+{{% resource_link "53376fad-ba64-4c02-9d1e-21438de81c77" "Final Essay due" %}}
