@@ -33,3 +33,7 @@ Once you've completed the required readings for week 5, post the following:
     1. "The Seventeen-Article Testament of Asakura Toshikage" (pp.429*–*431) or
     2. Takeda Nobushige's "Ninety-Nine-Article Testament" (pp. 431*–*432).
 - Explain in a short paragraph why this passage strikes you as particularly interesting, revealing, and/or puzzling, especially in comparison to the other "laws" and "codes" we have discussed in this class until now.
+
+## Class Annotation Exercise: “Part IV, The Tokugawa Peace” 
+
+For this week's annotation exercise, we will annotate the same set of texts ("Code for the Warrior Households" and "Code for the Imperial Court and Court Nobility," from *Sources of Japanese Tradition, Volume 1: From the Earliest Times to 1600 (Second Edition),* pp. 12*–*18) as a class. Please do so as instructed below:
