@@ -24,5 +24,3 @@ For further detail, see:
 {{% resource_link "5978efe5-5a08-43d7-b0aa-c1c087a05774" "Essay 2" %}}
 
 {{% resource_link "53376fad-ba64-4c02-9d1e-21438de81c77" "Final Essay" %}}
-
-Students will make a presentation on their final essay during our final meeting on 12/13.
