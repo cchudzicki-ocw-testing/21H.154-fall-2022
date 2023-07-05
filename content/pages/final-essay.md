@@ -50,4 +50,6 @@ Here are some historical sources that would make a good primary subject for this
 - Each entry in the *Samurai: An Encyclopedia of Japan's Cultured Warriors* book also has a “further reading” section at the end that lists additional sources.
 - Talk to your instructor! 
 
-This essay is due during the final session and counts for 30% of the course grade.
+This essay is due during the final session and counts for 30% of the course grade. 
+
+Students will also make a presentation on this essay during the final session.
