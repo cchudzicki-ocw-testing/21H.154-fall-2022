@@ -5,11 +5,11 @@ draft: false
 title: Readings
 uid: 7f543041-3658-4cb1-96fe-904d6956eb24
 ---
-\[SJT\] William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 1: From the Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
+\[SJT\] = William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 1: From the Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
 
-\[SWCJ\] Thomas Conlan, ed., *Samurai and the Warrior Culture of Japan, 471–1877* (Hackett Publishing Co., 2022). \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
+\[SWCJ\] = Thomas Conlan, ed., *Samurai and the Warrior Culture of Japan, 471–1877* (Hackett Publishing Co., 2022). \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
 
-\[JE\] Karl F. Friday, ed., *Japan Emerging: Premodern History to 1850* (Westview Press, 2012). \[Preview with [Google Books](https://www.google.com/books/edition/Japan_Emerging/iUtWDwAAQBAJ?hl=en&gbpv=1)\]
+\[JE\] = Karl F. Friday, ed., *Japan Emerging: Premodern History to 1850* (Westview Press, 2012). \[Preview with [Google Books](https://www.google.com/books/edition/Japan_Emerging/iUtWDwAAQBAJ?hl=en&gbpv=1)\]
 
 ### Week 1: Introduction
 
