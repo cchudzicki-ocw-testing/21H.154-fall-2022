@@ -12,7 +12,7 @@ leftnav:
   pageRef: /pages/readings
   weight: 30
 - identifier: 05a83813-9776-4909-8f9f-629cf3953042
-  name: Lecture Slides
+  name: Lecture Slides II
   pageRef: /pages/lecture-slides
   weight: 40
 - identifier: f8ba7b70-6ae4-446b-8fa7-e409020ad97c
