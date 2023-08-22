@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Inventing the Samurai, Lecture 20: A Samurai Prince in 19th-Century Massachusetts '
+title: 'Inventing the Samurai, Lecture 20: A Samurai Prince in 19th-Century Massachusetts'
 uid: 9f6ad52e-7e38-4a2b-a0f5-9406177e43ff
 video_files:
   archive_url: ''
