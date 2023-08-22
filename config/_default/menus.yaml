@@ -11,14 +11,18 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 30
+- identifier: 1e16e65b-d566-4996-bf11-539915a51855
+  name: Lecture Slides
+  pageRef: /lists/lecture-slides
+  weight: 40
 - identifier: 05a83813-9776-4909-8f9f-629cf3953042
   name: Lecture Slides II
   pageRef: /pages/lecture-slides
-  weight: 40
+  weight: 50
 - identifier: f8ba7b70-6ae4-446b-8fa7-e409020ad97c
   name: Assignments
   pageRef: /pages/assignments
-  weight: 50
+  weight: 60
 - identifier: 2062b99d-ebc1-4e84-adde-bc0413a60006
   name: Reading Response Posts and Annotations
   pageRef: /pages/reading-responses
