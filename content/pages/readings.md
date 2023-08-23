@@ -27,7 +27,7 @@ No readings assigned.
 
 \[SWCJ\] “Section I. The Story of Swords: Understanding the Warriors of Ancient Japan (471-900),” pp. 1–7. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
 
-\[JE\] Ch. 6, “Origins of the Japanese People,” pp. 55–65; Ch. 7, “What Used to be Called Shinto,” pp. 66–76. \[Preview with [Google Books](https://www.google.com/books/edition/Japan_Emerging/iUtWDwAAQBAJ?hl=en&gbpv=1)\]
+\[JE\] Ch. 6, “Origins of the Japanese People,” pp. 55–65; Ch. 7, “What Used to be Called Shinto,” pp. 66–76. 
 
 *Session 3: Overseas Influence and the Imperial State*
 
