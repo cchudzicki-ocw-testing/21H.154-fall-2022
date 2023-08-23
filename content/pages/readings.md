@@ -201,7 +201,7 @@ Jippensha Ikku, “The Monster Takes a Bride,” in *An Edo Anthology: Literatur
 
 *Session 16: Tsuneno’s Edo*
 
-“Chapter Three: To Edo,” “Chapter Four: A View from the Tenement,” “Chapter Five: Samurai Winter,” “Chapter Six: Costumes for Urban Life,” pp. 59–160 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
+“Chapter Three: To Edo,” “Chapter Four: A View from the Tenement,” “Chapter Five: Samurai Winter,” “Chapter Six: Costumes for Urban Life,” pp. 59–160 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). 
 
 Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](https://www.historians.org/research-and-publications/perspectives-on-history/november-2018/writing-the-history-of-sexual-assault-in-the-age-of-metoo).” *Perspectives on History*, September 24, 2018.
 
