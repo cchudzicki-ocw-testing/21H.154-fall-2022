@@ -23,13 +23,13 @@ This essay is designed to be completed with in-class materials. Do not cite out
 
 **Historical Sources Options 1: History and Mythology**
 
-Ch. 1, “The Earliest Records of Japan,” pp. 3–16; Ch. 2, “Early Shinto,” pp. 17–31, in William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 1: From the Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
+Ch. 1, “The Earliest Records of Japan,” pp. 3–16; Ch. 2, “Early Shinto,” pp. 17–31, in William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 1: From Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
 
 “Section I. The Story of Swords: Understanding the Warriors of Ancient Japan (471–900),” pp. 1–7, in Thomas Conlan, ed., *Samurai and the Warrior Culture of Japan, 471–1877* (Hackett Publishing Co., 2022). \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_and_the_Warrior_Culture_of_Japan/gN1dEAAAQBAJ?hl=en&gbpv=1)\]
 
 **Historical Sources Option 2: Overseas Influence and the Imperial State**
 
-Ch. 3, “Prince Shōtoku and His Constitution,” pp. 40–55; “Chinese-style History and the Imperial Concept,” “The Reform Era,” pp. 70–84, in William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 1: From the Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
+Ch. 3, “Prince Shōtoku and His Constitution,” pp. 40–55; “Chinese-style History and the Imperial Concept,” “The Reform Era,” pp. 70–84, in William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 1: From Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). 
 
 **Historical Sources Option 3: Heian, the Era of “Peace and Tranquility”(?)**
 
@@ -41,7 +41,7 @@ Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary Hi
 
 **Historical Sources Option 5:  The First Samurai Wars**
 
-Ch. 12, “The Way of the Warrior,” pp. 265–280, William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 1: From the Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). 
+Ch. 12, “The Way of the Warrior,” pp. 265–280, William Theodore de Barry, ed., *Sources of Japanese Tradition, Volume 1: From Earliest Times to 1600 (Second Edition)* (Columbia University Press, 2001). 
 
 “The Fight at Dan No Ura,” pp. 180–184. in Donald Keene, ed. *Anthology of Japanese Literature* (Grove Press, 1955).
 
