@@ -21,7 +21,7 @@ If you are taking this class as a Japanese-language option subject (21G.554), yo
 
 - It might be helpful to start by looking through the assigned texts in the syllabus. 
 - Look through the Table of Contents in *Japan Emerging,* and take a quick look at any chapters that sound interesting. \[Preview with [Google Books](https://www.google.com/books/edition/Japan_Emerging/iUtWDwAAQBAJ?hl=en&gbpv=1)\]
-- Look through the list of entries in *Samurai: An Encyclopedia of Japan's Cultured Warriors*. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai_An_Encyclopedia_of_Japan_s_Cultu/lPaKDwAAQBAJ?hl=en&gbpv=1)\]
+- Look through the list of entries in *Samurai: An Encyclopedia of Japan's Cultured Warriors*. \[Preview with [Google Books](https://www.google.com/books/edition/Samurai/0BjHEAAAQBAJ?hl=en&gbpv=1)\]
 - Talk to your instructor!
 
 **Step 2:** Decide on the main source that you will analyze.
@@ -40,7 +40,7 @@ Here are some historical sources that would make a good primary subject for this
 - *The Autobiography of Baron Chōkichi Kikkawa* (1918). An autobiography of a young samurai prince who became one of the first Japanese graduates of Harvard College. Originally written in English.
 - Nitobe Inazō, [*Bushido: The Soul of Japan* (1907)](https://www.google.com/books/edition/Bushido_the_Soul_of_Japan/53E1XrRRpPQC?hl=en&gbpv=1). The book that introduced “bushido” to the Western audience. Originally published in English. 
 - *An Edo Anthology: Literature from Japan’s Mega-City, 1750–1850* (University of Hawai’i Press, 2013). A collection of Edo literature.
-- *The Land We Saw, the Times We Knew : An Anthology of Zuihitsu Writing from Early Modern Japan*. (University of Hawai'i Press, 2018). A collection of Edo-era essays (*zuihitsu*). \[Preview with [Google Books](https://www.google.com/books/edition/The_Land_We_Saw_the_Times_We_Knew/-VcEEAAAQBAJ?hl=en&gbpv=1)\]
+- *The Land We Saw, the Times We Knew: An Anthology of Zuihitsu Writing from Early Modern Japan*. (University of Hawai'i Press, 2018). A collection of Edo-era essays (*zuihitsu*). \[Preview with [Google Books](https://www.google.com/books/edition/The_Land_We_Saw_the_Times_We_Knew/-VcEEAAAQBAJ?hl=en&gbpv=1)\]
 - William Elliot Griffis, [*The Mikado's Empire, Vol. 2, Personal Experiences, Observations, and Studies in Japan, 1870–1874* (1876)](https://www.google.com/books/edition/The_Mikado_s_Empire/Ld_BNvbt3MgC?hl=en&gbpv=1). First-hand account of an American hired to teach in early Meiji Japan. Especially recommended chapters: Ch. 1 "First Glimpses of Japan" through Ch. 3 "In Tokio, the Eastern Capital" and Ch. 15 "The Last Year of Feudalism" in Japan. 
 
 **Step 3:** Find and select at least one chapter- or article-length scholarly sources that you will use to analyze your main source.
