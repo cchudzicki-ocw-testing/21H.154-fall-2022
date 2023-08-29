@@ -121,8 +121,6 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 “Takeda Shingen (1521–1573), Warlord,” pp. 43–49, in Morgan Pitelka, et al. eds., *Letters from Japan’s Sixteenth and Seventeenth Centuries: Correspondence of Warlords, Tea Masters, Zen Priests, and Aristocrats* (Institute of East Asian Studies, University of California, 2021). ISBN: 9781557291950.
 
-9781557291950.
-
 \[JE\] Ch. 22, “Warriors, Warlords, and Domains,” Ch. 23, “Medieval Warfare,” pp. 233–253.
 
 *Optional (a cool animated map of the Ōnin War):*
@@ -175,11 +173,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 Ch. 31, “The Way of the Warrior II,” pp. 437–480, in William Theodore de Bary, ed., *Sources of Japanese Tradition, Volume 2: 1600 To 2000* *(Second Edition)* (Columbia University Press, 2001). ISBN: 9780231129848.
 
-“Akô Incident,” pp. 3–9,
-
-in
-
-Constantine Nomikos Vaporis, *Samurai: An Encyclopedia of Japan's Cultured Warriors* (Bloomsbury Academic, 2019). ISBN: 9781440842702.
+“Akô Incident,” pp. 3–9, in Constantine Nomikos Vaporis, *Samurai: An Encyclopedia of Japan's Cultured Warriors* (Bloomsbury Academic, 2019). ISBN: 9781440842702.
 
 \[JE\] Ch. 32, “The New Warriors: Samurai in Early Modern Japan,” pp. 344–355.
 
