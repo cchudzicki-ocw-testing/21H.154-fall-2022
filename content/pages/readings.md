@@ -31,7 +31,7 @@ No readings assigned.
 
 *Session 3: Overseas Influence and the Imperial State*
 
-\[SJT\] Ch. 3, “Prince Shōtoku and His Constitution,” pp. 40–55; “Chinese-style History and the Imperial Concept,” “The Reform Era,” pp. 70–84. 
+\[SJT\] Ch. 3, “Prince Shōtoku and His Constitution,” pp. 40–55; “Chinese-Style History and the Imperial Concept,” “The Reform Era,” pp. 70–84. 
 
 \[JE\] Ch. 8, “The Emergence of Political Rulership and the State in Early Japan,” pp. 77–88; Ch. 10, “Centralization and State Formation in Sixth- and Seventh-Century Japan,” pp. 98–109.
 
@@ -43,9 +43,9 @@ No readings assigned.
 
 *Session 4: Heian, the Era of “Peace and Tranquility”(?)*
 
-Ch. 4, “Rise of Feudal Institutions,” in David Lu, *Japan: A Documentary History*, 81–104 (M.E. Sharpe, 2005). ISBN: 9781563249075. \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
+Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A Documentary History* (M.E. Sharpe, 2005). ISBN: 9781563249075. \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
 
-\[JE\] Ch. 12, “Oligarchy, Shared Rulership, and Power Blocks,” pp.122–134;  Ch. 16, “The Shōen System,” pp.  167–177.
+\[JE\] Ch. 12, “Oligarchy, Shared Rulership, and Power Blocks,” pp. 122–134;  Ch. 16, “The Shōen System,” pp. 167–177.
 
 *Optional:*
 
@@ -217,9 +217,9 @@ Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](ht
 
 *Session 17: Samurai Corruption*
 
-“Chapter Seven: Troubles at Home,” pp. 161–194 in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). ISBN: ‎9781501188534.
+“Chapter Seven: Troubles at Home,” pp. 161–194, in Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). ISBN: ‎9781501188534.
 
-“Decay of the Tokugawa System” in Lu, *Japan:* *A Documentary History*, *Vol. 2* (M.E. Sharpe, 1997) pp. 273–281. ISBN: ‎ 9780765600363.
+“Decay of the Tokugawa System,” pp. 273–281, in Lu, *Japan:* *A Documentary History*, *Vol. 2* (M.E. Sharpe, 1997). ISBN: ‎ 9780765600363.
 
 *Optional:*
 
