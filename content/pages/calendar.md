@@ -39,7 +39,7 @@ Reading response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 ### Week 5: From the Second Shogunate to Warring States (1300–1500)
 
-#### Session 8: Ashikaga Shogunate and the Era of Rival Imperial Courts
+#### Session 8: The Ashikaga Shogunate and the Era of Rival Imperial Courts
 
 #### Session 9: From Fires in Kyoto to “Warring States”
 
@@ -49,7 +49,7 @@ Reading response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 #### Session 10: The Unifiers: Oda Nobunaga and Toyotomi Hideyoshi
 
-### Week 7: Global Samurai and Pax Tokugawa
+### Week 7: Global Samurai and The Pax Tokugawa
 
 #### Session 11: An Elizabethan Account of Hideyoshi’s Nephew
 
