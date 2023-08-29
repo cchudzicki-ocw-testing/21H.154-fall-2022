@@ -31,7 +31,7 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 *Session 6: The First Samurai Wars*
 
-Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Close Reading: \"The Battle of Dan no Ura\"" %}}
+Reading response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Close Reading: \"The Battle of Dan no Ura\"" %}}
 
 *Session 7: The First Samurai Government*
 
@@ -43,7 +43,7 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 *Session 9: From Fires in Kyoto to “Warring States”*
 
-Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Your Favorite Sengoku Samurai Rule" %}}
+Reading response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Your Favorite Sengoku Samurai Rule" %}}
 
 ### Week 6: Reunification 
 
@@ -51,11 +51,11 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 ### Week 7: Global Samurai and Pax Tokugawa
 
-*Session 11: An Elizabethan Account of  Hideyoshi’s Nephew*
+*Session 11: An Elizabethan Account of Hideyoshi’s Nephew*
 
 *Session 12: The Last (and Best?) Samurai Government*
 
-Class Annotation Exercise due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "“Part IV, The Tokugawa Peace,” pp. 12–18" %}}
+Class annotation exercise due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "“Part IV, The Tokugawa Peace,” pp. 12–18" %}}
 
 ## Part III: Alternative Visions of Samurai and their World (1700–Present)
 
@@ -63,7 +63,7 @@ Class Annotation Exercise due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413
 
 *Session 13: The “Forty-Seven Rōnin” Incident as History and Myth*
 
-Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Historical Perspectives on the Akō Incident" %}}
+Reading response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Historical Perspectives on the Akō Incident" %}}
 
 *Session 14: Pictures and Stories of the Floating World*
 
@@ -77,7 +77,7 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 In-class activity: Mapping and Visualizing Tsuneno's Edo
 
-Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Locating Tsuneno's Edo" %}} 
+Reading response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Locating Tsuneno's Edo" %}} 
 
 ### Week 10: Bureaucrats and Ne’er-do-wells
 
@@ -91,7 +91,7 @@ Reading Response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 *Session 20: A Samurai Prince in 19th-Century Massachusetts* 
 
-Group Annotation due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "The Autobiography of Baron Chōkichi Kikkawa (1917)" %}}
+Group annotation due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "The Autobiography of Baron Chōkichi Kikkawa (1917)" %}}
 
 ### Week 12: Modern Samurai
 
