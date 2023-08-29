@@ -207,7 +207,7 @@ Jippensha Ikku, “The Monster Takes a Bride,” in *An Edo Anthology: Literatur
 
 Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](https://www.historians.org/research-and-publications/perspectives-on-history/november-2018/writing-the-history-of-sexual-assault-in-the-age-of-metoo).” *Perspectives on History*, September 24, 2018.
 
-### Week 10: Bureaucrats and Ne’er-do-wells
+### Week 10: Bureaucrats and Ne’er-Do-Wells
 
 #### Session 17: Samurai Corruption
 
@@ -221,7 +221,7 @@ Stanley, Amy. “[Writing the History of Sexual Assault in the Age of #MeToo](ht
 
 “Warriors,” pp. 42–94, in Mark Teeuwen and Kate Wildman Nakai, eds., *Lust, Commerce, and Corruption: An Account of What I have Seen and Heard*, *by an Edo Samurai* (Columbia University Press, 2017). ISBN: 9780231544351. \[Preview with [Google Books](https://www.google.com/books/edition/Lust_Commerce_and_Corruption/9eBqDgAAQBAJ?hl=en&gbpv=1)\]
 
-#### Session 18: “Dream-besotted” Musui
+#### Session 18: “Dream-Besotted” Musui
 
 “Introduction,” and “Adult Years,” in *Musui’s Story: The Autobiography of a Tokugawa Samurai* (University of Arizona Press, 1988) pp. ix–xxi, 71–108. ISBN: 9780816512560. \[Preview with [Google Books](https://www.google.com/books/edition/Musui_s_Story/J4iiDEYziv0C?hl=en&gbpv=1)\]
 
