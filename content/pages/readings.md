@@ -45,11 +45,11 @@ No readings assigned.
 
 Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A Documentary History* (M.E. Sharpe, 2005). ISBN: 9781563249075. \[Preview with [Google Books](https://www.google.com/books/edition/Japan/maXRLaADxLsC?hl=en&gbpv=1)\]
 
-\[JE\] Ch. 12, “Oligarchy, Shared Rulership, and Power Blocks,” pp. 122–134;  Ch. 16, “The Shōen System,” pp. 167–177.
+\[JE\] Ch. 12, “Oligarchy, Shared Rulership, and Power Blocks,” pp. 122–134; Ch. 16, “The Shōen System,” pp. 167–177.
 
 *Optional:*
 
-\[JE\] Ch. 11, “Emperor, Aristocracy, and the *Ritsuryō State*,” pp. 111–121;  Ch. 15, “The Provinces and the Public Economy, 700–1100,” pp. 157–166.
+\[JE\] Ch. 11, “Emperor, Aristocracy, and the *Ritsuryō State*,” pp. 111–121; Ch. 15, “The Provinces and the Public Economy, 700–1100,” pp. 157–166.
 
 *Session 5: Court Culture and Spirituality* 
 
@@ -139,7 +139,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 ### Week 7: Global Samurai and Pax Tokugawa
 
-*Session 11: An Elizabethan Account of  Hideyoshi’s Nephew*
+*Session 11: An Elizabethan Account of Hideyoshi’s Nephew*
 
 “[The Tragedy of Quabacondono: An Elizabethan Account of the Last Days of Toyotomi Hidetsugi](https://muse.jhu.edu/article/805167),” *Monumenta Nipponic*a, Vol. 76.1 (2021) pp. 1–64.
 
@@ -173,7 +173,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 *Session 13: The “Forty-Seven Rōnin” Incident as History and Myth*
 
-Ch. 31, “The Way of the Warrior II,” pp. 437–480,  in William Theodore de Bary, ed., *Sources of Japanese Tradition, Volume 2: 1600 To 2000* *(Second Edition)* (Columbia University Press, 2001). ISBN: 9780231129848.
+Ch. 31, “The Way of the Warrior II,” pp. 437–480, in William Theodore de Bary, ed., *Sources of Japanese Tradition, Volume 2: 1600 To 2000* *(Second Edition)* (Columbia University Press, 2001). ISBN: 9780231129848.
 
 “Akô Incident,” pp. 3–9,
 
