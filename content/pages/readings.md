@@ -13,7 +13,7 @@ uid: 7f543041-3658-4cb1-96fe-904d6956eb24
 
 ### Week 1: Introduction
 
-#### Session 1: Introduction
+Session 1: Introduction
 
 No readings assigned.
 
@@ -21,7 +21,7 @@ No readings assigned.
 
 ### Week 2: Origins
 
-#### Session 2: History and Mythology
+Session 2: History and Mythology
 
 \[SJT\] Ch. 1, “The Earliest Records of Japan,” pp. 3–16; Ch. 2, “Early Shinto,” pp. 17–31. \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Japanese_Tradition/aWxN1Fq_ueoC?hl=en&gbpv=1)\]
 
