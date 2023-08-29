@@ -79,11 +79,11 @@ In-class activity: Mapping and Visualizing Tsuneno's Edo
 
 Reading response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "Locating Tsuneno's Edo" %}} 
 
-### Week 10: Bureaucrats and Ne’er-do-wells
+### Week 10: Bureaucrats and Ne’er-Do-Wells
 
 #### Session 17: Samurai Corruption
 
-#### Session 18: “Dream-besotted” Musui
+#### Session 18: “Dream-Besotted” Musui
 
 ### Week 11: The End of Samurai
 
