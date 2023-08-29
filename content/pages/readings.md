@@ -101,7 +101,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 ### Week 5: From the Second Shogunate to Warring States (1300–1500)
 
-#### Session 8: Ashikaga Shogunate and the Era of Rival Imperial Courts
+#### Session 8: The Ashikaga Shogunate and the Era of Rival Imperial Courts
 
 \[SJT\] Ch. 18, “The Law of the Muromachi Shogunate,” pp. 417–420.
 
@@ -135,7 +135,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 \[JE\] Ch. 29, “The Sixteenth-Century Reunification,” pp. 311–320.
 
-### Week 7: Global Samurai and Pax Tokugawa
+### Week 7: Global Samurai and The Pax Tokugawa
 
 #### Session 11: An Elizabethan Account of Hideyoshi’s Nephew
 
