@@ -27,7 +27,7 @@ This class explores the history, and the mythology, of the famous Japanese warri
 
 ## Required Text
 
-Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
+Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). ISBN: ‎9781501188534. \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
 
 All other required readings can be found in the {{% resource_link "7f543041-3658-4cb1-96fe-904d6956eb24" "Readings" %}} section.
 
@@ -75,6 +75,6 @@ For detail on the essays, see the {{% resource_link "f8ba7b70-6ae4-446b-8fa7-e40
 
 In Japanese, the surname precedes the given name. My name, for example, would be rendered as “Nagahara Hiromu.” Please note that many of the assigned readings follow this convention for Japanese names.
 
-Vowels in Japanese are pronounced approximately as in Italian (they are pure vowels). Hence: a as in father; i as in magazine; u as in flute; e as in et cetera;  o as in note.
+Vowels in Japanese are pronounced approximately as in Italian (they are pure vowels). Hence: a as in father; i as in magazine; u as in flute; e as in et cetera; o as in note.
 
 Vowels with macrons (ā, ī, ū, ē, ō) are held longer than those without, but their sound values remain unchanged. For example: kōshō means “negotiations,” while koshō means “pepper.”
