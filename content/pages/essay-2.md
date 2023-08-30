@@ -24,7 +24,7 @@ By this point in our class, we have explored the rise of three different samurai
 **Tips for Essay 2**
 
 - For inspiration, re-read the reading response posts that you and your classmates wrote for Week 4 (“Your Favorite Sengoku Samurai Rule”) as well as the annotations of the Tokugawa codes from Week 5.
-- When you’re reading and interpreting these laws, make sure to not only consider the ideas that are stated explicitly in their articles but also the historical contexts and realities that prompted to rule-givers to write them in the first place. In other words, some of these articles may require to “read between the lines” in order to recognize their true significance. The scholarly sources are of critical importance in this process.
+- When you’re reading and interpreting these laws, make sure to not only consider the ideas that are stated explicitly in their articles but also the historical contexts and realities that prompted to the rule-givers to write them in the first place. In other words, some of these articles may require you to “read between the lines” in order to recognize their true significance. The scholarly sources are of critical importance in this process.
 - If your paper contains less than 10 citations, it is highly likely that you are not citing enough sources.
 
 **Essay Format**
