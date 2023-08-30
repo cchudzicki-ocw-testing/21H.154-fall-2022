@@ -135,7 +135,7 @@ Ch. 4, “Rise of Feudal Institutions,” pp. 81–104, in David Lu, *Japan: A 
 
 \[JE\] Ch. 29, “The Sixteenth-Century Reunification,” pp. 311–320.
 
-### Week 7: Global Samurai and The Pax Tokugawa
+### Week 7: Global Samurai and the Pax Tokugawa
 
 #### Session 11: An Elizabethan Account of Hideyoshi’s Nephew
 
