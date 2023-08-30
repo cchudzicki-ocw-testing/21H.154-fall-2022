@@ -49,7 +49,7 @@ Reading response due: {{% resource_link "2062b99d-ebc1-4e84-adde-bc0413a60006" "
 
 #### Session 10: The Unifiers: Oda Nobunaga and Toyotomi Hideyoshi
 
-### Week 7: Global Samurai and The Pax Tokugawa
+### Week 7: Global Samurai and the Pax Tokugawa
 
 #### Session 11: An Elizabethan Account of Hideyoshi’s Nephew
 
