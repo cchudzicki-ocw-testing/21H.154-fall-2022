@@ -17,7 +17,7 @@ Note: This subject meets with 21G.554. For those students, the prerequisite is [
 
 ## Course Description
 
-This class explores the history, and the mythology, of the famous Japanese warriors, from their origins in classical Japan to their various reincarnations throughout the archipelago's history. We will start in Japan's pre-modern era (200–1600 CE) and follow key historical developments such as the rise of samurai as a recognizable social group, the transformation of Japan into a warrior-governed state, and the ways in which these events reshaped the politics, society, economy, and culture of the entire country. The class will also consider how the samurai identity continued to be reinvented throughout Japan's history and why, even today, they capture the imaginations of many people not only in Japan but around the world.
+This class explores the history, and the mythology, of the famous Japanese warriors, from their origins in classical Japan to their various reincarnations throughout the archipelago's history. We will start in Japan's pre-modern era (200–1600 CE) and follow key historical developments such as the rise of the samurai as a recognizable social group, the transformation of Japan into a warrior-governed state, and the ways in which these events reshaped the politics, society, economy, and culture of the entire country. The class will also consider how the samurai identity continued to be reinvented throughout Japan's history and why, even today, they capture the imaginations of many people not only in Japan but around the world.
 
 ## Class Goals
 
@@ -77,4 +77,4 @@ In Japanese, the surname precedes the given name. My name, for example, would be
 
 Vowels in Japanese are pronounced approximately as in Italian (they are pure vowels). Hence: a as in father; i as in magazine; u as in flute; e as in et cetera; o as in note.
 
-Vowels with macrons (ā, ī, ū, ē, ō) are held longer than those without, but their sound values remain unchanged. For example: kōshō means “negotiations,” while koshō means “pepper.”
+Vowels with macrons (*ā, ī, ū, ē, ō*) are held longer than those without, but their sound values remain unchanged. For example: *kōshō* means “negotiations,” while *koshō* means “pepper.”
