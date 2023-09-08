@@ -25,12 +25,6 @@ This class explores the history, and the mythology, of the famous Japanese warri
 2. Develop the ability to demonstrate such understanding through clear, accurate, and persuasive writing.
 3. Share our learning and discoveries as a class through discussions and presentations.
 
-## Required Text
-
-Amy Stanley, *Stranger in the Shogun’s City: A Japanese Woman and Her World* (Scribner, 2020). ISBN: ‎9781501188534. \[Preview with [Google Books](https://www.google.com/books/edition/Stranger_in_the_Shogun_s_City/bD8yEAAAQBAJ?hl=en&gbpv=1)\]
-
-All other required readings can be found in the {{% resource_link "7f543041-3658-4cb1-96fe-904d6956eb24" "Readings" %}} section.
-
 ## Grading Policy
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
